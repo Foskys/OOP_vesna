@@ -1,0 +1,16 @@
+D:\later github\Semestr4\ООП\1laba\bin\Debug\net8.0-windows\1laba.exe
+D:\later github\Semestr4\ООП\1laba\bin\Debug\net8.0-windows\1laba.deps.json
+D:\later github\Semestr4\ООП\1laba\bin\Debug\net8.0-windows\1laba.runtimeconfig.json
+D:\later github\Semestr4\ООП\1laba\bin\Debug\net8.0-windows\1laba.dll
+D:\later github\Semestr4\ООП\1laba\bin\Debug\net8.0-windows\1laba.pdb
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\_1lab.MainForm.resources
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\1laba.csproj.GenerateResource.cache
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\1laba.GeneratedMSBuildEditorConfig.editorconfig
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\1laba.AssemblyInfoInputs.cache
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\1laba.AssemblyInfo.cs
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\1laba.csproj.CoreCompileInputs.cache
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\1laba.dll
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\refint\1laba.dll
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\1laba.pdb
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\1laba.genruntimeconfig.cache
+D:\later github\Semestr4\ООП\1laba\obj\Debug\net8.0-windows\ref\1laba.dll
